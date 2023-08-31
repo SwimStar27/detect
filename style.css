@@ -1,0 +1,42 @@
+body{
+    background-size: cover;
+}
+
+#title{
+    font-size: 22px;
+    text-align: center;
+    width: 100%;
+    color: blanchedalmond;
+    font-weight: bolder;
+}
+
+#start{
+    font-size: 18px;
+    background-color: #a6bde9;
+    border-radius: 8px;
+    color: blanchedalmond;
+}
+
+#status, #number{
+    font-size: 18px;
+    color:gold;
+    font-weight: bolder;
+}
+
+#footer{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    background-color: #a6bde9;
+    width: 100%;
+    color: blanchedalmond;
+    height: 28px;
+    padding-top: 6px;
+    font-weight: bold;
+}
+
+canvas{
+    border: 2px solid blanchedalmond;
+    border-radius: 8px;
+    box-shadow: 4px 4px 4px blanchedalmond;
+}
